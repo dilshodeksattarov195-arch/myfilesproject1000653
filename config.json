@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseetringify",
+        "uuid": 4539656,
+        "checksum": "aotpyf"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
